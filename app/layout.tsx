@@ -5,7 +5,7 @@ import Footer from "./components/Footer";
 
 
 export const metadata: Metadata = {
-  title: "ポップコーンレビューアプリ",
+  title: "Poppin ポップコーンレビューアプリ",
   description: "全国の映画館のポップコーンレビューアプリです。",
 };
 
