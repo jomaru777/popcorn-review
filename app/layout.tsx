@@ -1,12 +1,12 @@
 import type { Metadata } from "next";
-import "./globals.css";
-import Header from "./components/Header";
-import Footer from "./components/Footer";
+import "@/app/globals.css";
+import Header from "@/components/Header";
+import Footer from "@/components/Footer";
 
 
 export const metadata: Metadata = {
   title: "Poppin ポップコーンレビューアプリ",
-  description: "全国の映画館のポップコーンレビューアプリです。",
+  description: "広島の映画館のポップコーンレビューアプリです。",
 };
 
 export default function RootLayout({
